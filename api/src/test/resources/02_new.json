@@ -18,5 +18,6 @@
       "eTag": "38b01ff16138d7ca0a0eb3f7a88ff815",
       "sequencer": "005AE1E6A9A3D61490"
     }
-  }
+  },
+  "my-extension" : "extension-value"
 }
